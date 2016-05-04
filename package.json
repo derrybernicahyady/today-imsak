@@ -1,0 +1,22 @@
+{
+  "name": "today-imsak",
+  "version": "0.0.1",
+  "description": "Check imsakiyah schedule from your terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "imsak",
+    "puasa",
+    "ramadan"
+  ],
+  "author": "raka aditya",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.11.0",
+    "cheerio": "^0.20.0",
+    "cli-table": "^0.3.1",
+    "inquirer": "^1.0.2"
+  }
+}
