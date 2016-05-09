@@ -1,6 +1,6 @@
 {
   "name": "today-imsak",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Check imsakiyah schedule from your terminal",
   "bin": "index.js",
   "scripts": {
