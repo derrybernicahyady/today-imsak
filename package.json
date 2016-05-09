@@ -2,7 +2,7 @@
   "name": "today-imsak",
   "version": "0.0.1",
   "description": "Check imsakiyah schedule from your terminal",
-  "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
